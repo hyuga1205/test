@@ -1,1 +1,2 @@
-aaaa
+git config --global http.proxy "http://userid:password@ProxyNatTs.ac.toyotasystems.com:8081"
+git config --global url."https://".insteadOf git://
